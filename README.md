@@ -74,3 +74,9 @@ sudo rm -rf Python-3.8.0.tgz
 sudo rm -rf Python-3.8.0
 Then open Thonny Python IDE with the help of the below steps
 
+
+![image](https://github.com/user-attachments/assets/d83f9006-2449-4006-8e62-e1a637e6077d)
+![image](https://github.com/user-attachments/assets/86fa36e4-dce5-4b24-a45d-223b84d32b22)
+
+
+Now you are ready to run the code and run it 
