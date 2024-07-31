@@ -20,3 +20,4 @@ vehicles in each lane and based on the count signal is given to each lane.
 # Setting up connections with Raspberry PI
 we will connect components such as IR sensor, Traffic Light Led to the raspberry pi .Now we will connect the IR sensors and the Traffic Light LED with the Raspberry Pi according to the table:
 
+![Screenshot 2024-07-31 112408](https://github.com/user-attachments/assets/62244430-82a0-4da4-bcb5-20fa074640b0)
