@@ -22,4 +22,5 @@ we will connect components such as IR sensor, Traffic Light Led to the raspberry
 
 ![Screenshot 2024-07-31 112408](https://github.com/user-attachments/assets/62244430-82a0-4da4-bcb5-20fa074640b0)
 ![Screenshot 2024-07-31 112632](https://github.com/user-attachments/assets/26ff91e8-be79-4c6a-af23-51e2e077ef7b)
+![image](https://github.com/user-attachments/assets/a611318f-1db4-4c4f-b243-34369496b7ef)
 
